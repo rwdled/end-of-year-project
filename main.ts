@@ -10,9 +10,3 @@ input.onButtonPressed(Button.AB, function () {
     control.reset()
 })
 basic.showString("unarmed")
-basic.forever(function () {
-	
-})
-control.inBackground(function () {
-	
-})
